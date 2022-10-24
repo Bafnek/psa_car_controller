@@ -243,3 +243,11 @@
   reg: VF73ABHZMJ.*
   max_elec_consumption: 70
   max_fuel_consumption: 30
+- !CarModel
+  name: Peugeot 508 SW HDi 160
+  battery_power: 0
+  fuel_capacity: 72
+  abrp_name:
+  reg: VR3FJEHYRL.*
+  max_elec_consumption: 70
+  max_fuel_consumption: 30
